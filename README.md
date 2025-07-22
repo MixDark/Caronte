@@ -4,7 +4,7 @@
 Es un script que permite recuperar las contraseñas WiFi guardadas en el sistema.
 
 ## Capturas de pantalla
-<img width="597" height="807" alt="Caronte" src="https://github.com/user-attachments/assets/9a654b3f-fd7f-48bf-84fd-60ff6e278396" />
+<img width="597" height="807" alt="image" src="https://github.com/user-attachments/assets/6fb8349d-4f8f-4916-af19-52f42db5994d" />
 
 
 ## Características
