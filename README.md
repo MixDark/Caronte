@@ -13,6 +13,13 @@
 - **Visualización de logs**: Accede al registro de acciones y errores desde el menú.
 - **Interfaz de menú interactivo**: Navegación sencilla por todas las funcionalidades.
 
+## Capturas de pantalla
+
+<img width="617" height="699" alt="image" src="https://github.com/user-attachments/assets/f60b8369-a657-4364-828a-c48e1ae9c0fd" />
+
+<img width="617" height="453" alt="1111" src="https://github.com/user-attachments/assets/6f4e9439-11e1-4b7a-a674-e7be3078538d" />
+
+
 ## Requisitos
 
 - Python 3.x
@@ -74,3 +81,4 @@ MIT. Puedes usar, modificar y distribuir libremente.
 
 Mix Dark
 https://github.com/MixDark
+
