@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+caronte.log
+
+# Exportaciones
+wifi_credentials_*.txt
+wifi_credentials_*.csv
+wifi_credentials_*.json
+
+# Entornos
+.env/
+venv/
